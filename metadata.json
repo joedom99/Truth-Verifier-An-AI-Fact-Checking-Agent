@@ -1,0 +1,7 @@
+{
+  "name": "Truth Verifier",
+  "description": "An AI agent that fact-checks claims using Google Search. It provides a confidence score, a detailed explanation of its reasoning, and a visual 'truth-meter' to assess the validity of any statement.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
