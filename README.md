@@ -16,9 +16,14 @@ An advanced AI agent designed to meticulously fact-check claims using Google Sea
 -   **Location-Aware:** Optionally uses your geo-location for more accurate results on "nearby" or location-specific queries.
 -   **Detailed Reporting:** Generates a comprehensive report including an overall verdict, a summary explanation, and a breakdown of each sub-claim analysis.
 
+## More Information about the Project
+
+**Devpost:** https://devpost.com/software/truth-verifier-an-ai-fact-checking-agent
+**YouTube:** https://youtu.be/FG_24rk-ngU?si=PABj8I0rGXrvsDTN
+
 ## Try It Out Link
 
-https://truth-verifier-541538522417.us-west1.run.app/
+**Web:** https://truth-verifier-541538522417.us-west1.run.app/
 
 ### Run Locally
 
