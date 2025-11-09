@@ -18,8 +18,8 @@ An advanced AI agent designed to meticulously fact-check claims using Google Sea
 
 ## More Information about the Project
 
-**Devpost:** https://devpost.com/software/truth-verifier-an-ai-fact-checking-agent
-**YouTube:** https://youtu.be/FG_24rk-ngU?si=PABj8I0rGXrvsDTN
+-  **Devpost:** https://devpost.com/software/truth-verifier-an-ai-fact-checking-agent
+-  **YouTube:** https://youtu.be/FG_24rk-ngU?si=PABj8I0rGXrvsDTN
 
 ## Try It Out Link
 
